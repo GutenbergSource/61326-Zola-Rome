@@ -1,0 +1,14 @@
+
+div.chapter > div.divHead {
+    background-image: url("images/box.png");
+    background-repeat: no-repeat;
+    width: 484px;
+    height: 92px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.chapter h2.main {
+    text-align: center;
+    padding-top: 26px;
+}

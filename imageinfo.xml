@@ -1,0 +1,7 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/box.png" filesize="2371" filedate="2018-12-16 14:15:46" width="484px" height="92px"/>
+<image path="images/cover.jpg" filesize="112844" filedate="2020-01-24 22:04:40" width="489px" height="720px"/>
+<image path="images/qrcode.png" filesize="267" filedate="2020-02-06 19:18:11" width="148px" height="148px"/>
+<image path="images/seriestitle1918.png" filesize="12969" filedate="2020-02-02 13:34:54" width="442px" height="720px"/>
+<image path="images/titlepage.png" filesize="16599" filedate="2020-02-02 13:34:58" width="442px" height="720px"/>
+</images>
